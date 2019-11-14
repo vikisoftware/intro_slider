@@ -1,13 +1,13 @@
-package com.vikisoft.viewpagerdemo;
+package com.vikisoft.viewpagerdemo.java;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
-import android.widget.TableLayout;
 
 import com.google.android.material.tabs.TabLayout;
+import com.vikisoft.viewpagerdemo.R;
 
 import java.util.ArrayList;
 import java.util.List;

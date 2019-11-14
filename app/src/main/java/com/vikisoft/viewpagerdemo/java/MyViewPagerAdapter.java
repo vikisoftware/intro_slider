@@ -1,4 +1,4 @@
-package com.vikisoft.viewpagerdemo;
+package com.vikisoft.viewpagerdemo.java;
 
 import android.content.Context;
 
